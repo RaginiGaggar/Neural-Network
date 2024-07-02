@@ -1,1 +1,2 @@
-# ML---Neural-Networks
+# Machine Learning
+Neural Networks
